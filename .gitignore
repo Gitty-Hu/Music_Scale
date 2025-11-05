@@ -1,0 +1,5 @@
+ffmpeg-2024-08-15-git-1f801dfdb5-full_build/
+*.exe
+*.mp4
+*.wav
+*.mp3
